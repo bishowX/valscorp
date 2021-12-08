@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background: #101020;
+	color: white;
+}
+
+@layer utilities {
+	.border-spacing-1 {
+		border-spacing: 0.25rem;
+	}
+	.border-spacing-1.5 {
+		border-spacing: 0.375rem;
+	}
+	.border-spacing-2 {
+		border-spacing: 0.5rem;
+	}
+	.border-spacing-4 {
+		border-spacing: 1rem;
+	}
+}

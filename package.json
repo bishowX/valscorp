@@ -1,0 +1,25 @@
+{
+	"name": "valscorp",
+	"version": "0.0.0",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"serve": "vite preview"
+	},
+	"dependencies": {
+		"@radix-ui/react-dialog": "^0.1.1",
+		"firebase": "^9.5.0",
+		"moment": "^2.29.1",
+		"react": "^17.0.0",
+		"react-dom": "^17.0.0",
+		"react-router-dom": "^6.0.2",
+		"short-unique-id": "^4.4.4"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-react": "^1.0.0",
+		"autoprefixer": "^10.4.0",
+		"postcss": "^8.3.11",
+		"tailwindcss": "^2.2.19",
+		"vite": "^2.6.4"
+	}
+}
