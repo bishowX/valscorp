@@ -2,4 +2,4 @@
 
 Create invoices easily
 
-live demo https://www.valscorp.web.app
+live demo https://valscorp.web.app
