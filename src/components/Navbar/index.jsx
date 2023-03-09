@@ -10,11 +10,10 @@ const Navbar = () => {
 	)
 }
 
-/*
-	For Drawer
-	// const [open, setOpen] = useState(false)
+
+	 const [open, setOpen] = useState(false)
 	
-	// const handleDrawerToggle = () => setOpen(!open)
+	 const handleDrawerToggle = () => setOpen(!open)
 
 	<button onClick={handleDrawerToggle} className="md:hidden bg-none">
 		{ open ? 
@@ -28,7 +27,7 @@ const Navbar = () => {
 	</button>
 	
 	{ open && <MobileDrawer onClose={handleDrawerToggle} /> }
-*/
+
 
 
 export default Navbar
